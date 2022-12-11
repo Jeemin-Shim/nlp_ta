@@ -8,7 +8,7 @@ author:
     affiliation: 명지대학교
     affiliation_url: https://www.mju.ac.kr/
    
-date: "2022-10-03"
+date: "2022-12-12"
 output: 
   distill::distill_article:
     toc: true
