@@ -6,7 +6,7 @@ author:
   - name: 심지민 
     url: https://Jeemin-Shim.github.io/
     affiliation: 명지대학교
-    affiliation_url: https://www.hanwhalife.com/index.jsp
+    affiliation_url: https://www.mju.ac.kr/
    
 date: "2022-10-03"
 output: 
